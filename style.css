@@ -1,0 +1,19 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #2d3436;
+    background: linear-gradient(to bottom, #f7f7f7, #dcdde1);
+}
+
+/* Card Hover Effect */
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Footer Styles */
+footer a {
+    text-decoration: none;
+}
+"""
